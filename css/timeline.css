@@ -42,7 +42,7 @@ p {
 }
 .container {
 	width: 100%;
-	max-width: 1140px;
+	max-width: 70em;
 	padding: 0 15px;
 	box-sizing: border-box;
 	margin: 0 auto;
