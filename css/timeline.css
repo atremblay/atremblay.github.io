@@ -78,7 +78,8 @@ p {
 	margin: auto;
 	height: 100%;
 	width: 2px;
-	background: #efa22f;
+	background: #A3BE8C; 
+    /*#efa22f;*/
 	top: 20px;
 }
 .single-timeline {
@@ -114,7 +115,8 @@ p {
 	width: 12px;
 	height: 12px;
 	left: -6px;
-	background: #efa22f;
+	/*background: #efa22f;*/
+	background: #A3BE8C; 
 }
 .single-timeline:nth-child(even) {
 	-webkit-box-orient: horizontal;
