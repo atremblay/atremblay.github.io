@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
          <loc>http://atremblay.github.io/</loc>
-         <lastmod>2023-04-03</lastmod>
+         <lastmod>2023-04-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="http://atremblay.github.io/"/>
          <xhtml:link rel="alternate" hreflang="fr" href="http://atremblay.github.io/fr/"/>
@@ -10,7 +10,7 @@
     </url>
     <url>
          <loc>http://atremblay.github.io/education/</loc>
-         <lastmod>2023-04-03</lastmod>
+         <lastmod>2023-04-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="http://atremblay.github.io/education/"/>
          <xhtml:link rel="alternate" hreflang="fr" href="http://atremblay.github.io/fr/education/"/>
@@ -18,7 +18,7 @@
     </url>
     <url>
          <loc>http://atremblay.github.io/experience/</loc>
-         <lastmod>2023-04-03</lastmod>
+         <lastmod>2023-04-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="http://atremblay.github.io/experience/"/>
          <xhtml:link rel="alternate" hreflang="fr" href="http://atremblay.github.io/fr/experience/"/>
@@ -26,7 +26,7 @@
     </url>
     <url>
          <loc>http://atremblay.github.io/misc/</loc>
-         <lastmod>2023-04-03</lastmod>
+         <lastmod>2023-04-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="http://atremblay.github.io/misc/"/>
          <xhtml:link rel="alternate" hreflang="fr" href="http://atremblay.github.io/fr/misc/"/>
@@ -34,7 +34,7 @@
     </url>
     <url>
          <loc>http://atremblay.github.io/skills/</loc>
-         <lastmod>2023-04-03</lastmod>
+         <lastmod>2023-04-19</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="http://atremblay.github.io/skills/"/>
          <xhtml:link rel="alternate" hreflang="fr" href="http://atremblay.github.io/fr/skills/"/>

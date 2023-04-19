@@ -1,3 +1,4 @@
+@import ".../nord.css";
 
 :root {
     --nord0: #2e3440;
@@ -61,9 +62,9 @@
     --page-width:              70em;
     --font-color:              var(--nord4);
     --invert-font-color:       var(--gb-dm-bg0-hard);
-    --primary-color:           var(--nord12);
-    --secondary-color:         var(--nord13);
-    --tertiary-color:          var(--gb-dm-light-gray);
+    --primary-color:           var(--nord8);
+    --secondary-color:         var(--nord9);
+    --tertiary-color:          var(--nord6);
     --error-color:             var(--gb-dm-light-red);
     --progress-bar-background: var(--gb-dm-bg2);
     --progress-bar-fill:       var(--gb-dm-fg2);
